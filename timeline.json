@@ -1,0 +1,841 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "And I agree to term of services",
+      "uid" : "cb53a3e5b7ffe08",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I am sign in to website",
+      "uid" : "7486637187afa719",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227011165,
+        "stop" : 1620227024661,
+        "duration" : 13496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should be logged-in",
+      "uid" : "8e5d8a36430766df",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227000566,
+        "stop" : 1620227000598,
+        "duration" : 32
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then Product 'Faded Short Sleeve T-shirts' should be successfully added to cart",
+      "uid" : "79ed6a5f755406c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620226922883,
+        "stop" : 0,
+        "duration" : -1620226922883
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I search for 'Faded Short Sleeve T-shirts' on website",
+      "uid" : "4db4bdb83e30a2eb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024703,
+        "stop" : 1620227033351,
+        "duration" : 8648
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "da8ef69d15c3f2e2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 1620227044773,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I am on the home page",
+      "uid" : "172b4afceff301bb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226836833,
+        "stop" : 1620226853281,
+        "duration" : 16448
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I Verify Payment details",
+      "uid" : "6e05fc6d4767d077",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "c9ef885f1c3ac5d7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226912861,
+        "stop" : 1620226912861,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I goto the signup page",
+      "uid" : "f6094dbaaa3025be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226853281,
+        "stop" : 1620226864821,
+        "duration" : 11540
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then Product 'Faded Short Sleeve T-shirts' should be successfully added to cart",
+      "uid" : "110c8b446a0ad9d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040697,
+        "stop" : 1620227040712,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3e0f8cdb5c4e934e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226892819,
+        "stop" : 1620226892819,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I proceed to checkout",
+      "uid" : "d283065ef90141f5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620227040717,
+        "stop" : 1620227044772,
+        "duration" : 4055
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "185022f389ebb88c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226931563,
+        "stop" : 1620226931565,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then sign in page should be displayed",
+      "uid" : "649ddad06e63c643",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227011145,
+        "stop" : 1620227011160,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I proceess carrier",
+      "uid" : "7cf82b57affb2d4e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a53648cb2d506f2a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227011160,
+        "stop" : 1620227011160,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I click register",
+      "uid" : "8d2d26cb028eb1f1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226988714,
+        "stop" : 1620227000566,
+        "duration" : 11852
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4e6f0ffe9df0a4d7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040640,
+        "stop" : 1620227040640,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I Enter following account details",
+      "uid" : "9aa130bce1e59fb5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226981471,
+        "stop" : 1620226988714,
+        "duration" : 7243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should see product related to \"Faded Short Sleeve T-shirts\"",
+      "uid" : "2ae08a99fd91501c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620226912861,
+        "stop" : 0,
+        "duration" : -1620226912861
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "14b74d1e81f455ea",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024703,
+        "stop" : 1620227024703,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then sign in page should be displayed",
+      "uid" : "23fe7feef9d503aa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226892800,
+        "stop" : 1620226892815,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I am on the home page",
+      "uid" : "8c81227510872699",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226931565,
+        "stop" : 1620226957976,
+        "duration" : 26411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I proceess address",
+      "uid" : "29b636090b2c7d3b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I goto the signup page",
+      "uid" : "265cf1f89f0d6d72",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226957976,
+        "stop" : 1620226979268,
+        "duration" : 21292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I add 'Faded Short Sleeve T-shirts' to cart",
+      "uid" : "78f87ae83b98f3b6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620226912865,
+        "stop" : 1620226922883,
+        "duration" : 10018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f5aacd1a37fb611b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040643,
+        "stop" : 1620227040644,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ff4dc42d9c77a382",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040712,
+        "stop" : 1620227040713,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a8d7e334127a49aa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226892382,
+        "stop" : 1620226892382,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "47e325b9827b999",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227000617,
+        "stop" : 1620227000618,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I search for 'Faded Short Sleeve T-shirts' on website",
+      "uid" : "aa77edc1e4ab0705",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620226902844,
+        "stop" : 1620226912860,
+        "duration" : 10016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "953b33b0b17bbb18",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226892815,
+        "stop" : 1620226892815,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a1bf45ede436e2e2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226912864,
+        "stop" : 1620226912865,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should be logged-in",
+      "uid" : "f5096d29d8583ab0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620226902837,
+        "stop" : 0,
+        "duration" : -1620226902837
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f9f983aacd029737",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226902838,
+        "stop" : 1620226902838,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a91b8758f1ea035d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226836831,
+        "stop" : 1620226836833,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "c5df7f2dd9bb5f5e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024694,
+        "stop" : 1620227024696,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I am sign out from website",
+      "uid" : "538f08776fd03ca4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226892383,
+        "stop" : 1620226892800,
+        "duration" : 417
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3a640db0cee41014",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040716,
+        "stop" : 1620227040717,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I am sign in to website",
+      "uid" : "a522038f7d921435",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620226892820,
+        "stop" : 1620226902837,
+        "duration" : 10017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7be46fc4a7991e9f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227011165,
+        "stop" : 1620227011165,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I Enter following account details",
+      "uid" : "d31a8286332ce43d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226867020,
+        "stop" : 1620226877758,
+        "duration" : 10738
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should be logged-in",
+      "uid" : "76178362a7d3bf8a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226892335,
+        "stop" : 1620226892366,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "576d4dc001096387",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227000599,
+        "stop" : 1620227000601,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should see product related to \"Faded Short Sleeve T-shirts\"",
+      "uid" : "c8d19f26660bfbce",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227033351,
+        "stop" : 1620227040639,
+        "duration" : 7288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3f020dcbd370bc3b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226892366,
+        "stop" : 1620226892369,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I am sign out from website",
+      "uid" : "c0b458a6db3f45ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227000618,
+        "stop" : 1620227011145,
+        "duration" : 10527
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f4fdeab48a04344e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226902843,
+        "stop" : 1620226902844,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should be logged-in",
+      "uid" : "5278b6012b18ccc4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024661,
+        "stop" : 1620227024694,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I enter email id to create an account",
+      "uid" : "a75080f1f6f76e45",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226979268,
+        "stop" : 1620226981471,
+        "duration" : 2203
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I proceed to standard checkout",
+      "uid" : "106a4e1833690477",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044772,
+        "stop" : 0,
+        "duration" : -1620227044772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Given I add 'Faded Short Sleeve T-shirts' to cart",
+      "uid" : "a596f998fbac8fe0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040644,
+        "stop" : 1620227040697,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b714f69c187906dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226922884,
+        "stop" : 1620226922884,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I enter email id to create an account",
+      "uid" : "321854e326f9917d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226864821,
+        "stop" : 1620226867020,
+        "duration" : 2199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I click register",
+      "uid" : "87df447e2ffceaa1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226877758,
+        "stop" : 1620226892335,
+        "duration" : 14577
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "I agree to term of services",
+    "uid" : "11a3c0f2657d0344",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620227044773,
+      "stop" : 1620227044773,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I proceess carrier",
+    "uid" : "40df302fb35d9e7b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620227044773,
+      "stop" : 1620227044773,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Product 'Faded Short Sleeve T-shirts' should be successfully added to cart",
+    "uid" : "2dc13e3099250f3c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620226922884,
+      "stop" : 1620226922884,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I proceed to standard checkout",
+    "uid" : "836a309a7ac5633d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620227044773,
+      "stop" : 1620227044773,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I should see product related to \"Faded Short Sleeve T-shirts\"",
+    "uid" : "6274e595fd384779",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620226912861,
+      "stop" : 1620226912861,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I proceess address",
+    "uid" : "cfc177f7bdc51b13",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620227044773,
+      "stop" : 1620227044773,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I should be logged-in",
+    "uid" : "86576466d8701b81",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620226902838,
+      "stop" : 1620226902838,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "I Verify Payment details",
+    "uid" : "4ac8e479a2b8f395",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1620227044773,
+      "stop" : 1620227044773,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

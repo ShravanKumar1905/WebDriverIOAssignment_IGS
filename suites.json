@@ -1,0 +1,471 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Signup to My Store, Do login and Buy a Product: As a user, I can sign in",
+    "children" : [ {
+      "name" : "I should be logged-in",
+      "uid" : "86576466d8701b81",
+      "parentUid" : "bb6c844927b04f0fa6a56b9d478ffba6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620226902838,
+        "stop" : 1620226902838,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When I am sign in to website",
+      "uid" : "7486637187afa719",
+      "parentUid" : "bb6c844927b04f0fa6a56b9d478ffba6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227011165,
+        "stop" : 1620227024661,
+        "duration" : 13496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should be logged-in",
+      "uid" : "5278b6012b18ccc4",
+      "parentUid" : "bb6c844927b04f0fa6a56b9d478ffba6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024661,
+        "stop" : 1620227024694,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "c5df7f2dd9bb5f5e",
+      "parentUid" : "bb6c844927b04f0fa6a56b9d478ffba6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024694,
+        "stop" : 1620227024696,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "bb6c844927b04f0fa6a56b9d478ffba6"
+  }, {
+    "name" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product",
+    "children" : [ {
+      "name" : "I should see product related to \"Faded Short Sleeve T-shirts\"",
+      "uid" : "6274e595fd384779",
+      "parentUid" : "ed673ac39ceeee10cd7db219592672be",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620226912861,
+        "stop" : 1620226912861,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Given I search for 'Faded Short Sleeve T-shirts' on website",
+      "uid" : "4db4bdb83e30a2eb",
+      "parentUid" : "ed673ac39ceeee10cd7db219592672be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024703,
+        "stop" : 1620227033351,
+        "duration" : 8648
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should see product related to \"Faded Short Sleeve T-shirts\"",
+      "uid" : "c8d19f26660bfbce",
+      "parentUid" : "ed673ac39ceeee10cd7db219592672be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227033351,
+        "stop" : 1620227040639,
+        "duration" : 7288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4e6f0ffe9df0a4d7",
+      "parentUid" : "ed673ac39ceeee10cd7db219592672be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040640,
+        "stop" : 1620227040640,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "ed673ac39ceeee10cd7db219592672be"
+  }, {
+    "name" : "Signup to My Store, Do login and Buy a Product: As a user, I can add Produc to cart",
+    "children" : [ {
+      "name" : "Product 'Faded Short Sleeve T-shirts' should be successfully added to cart",
+      "uid" : "2dc13e3099250f3c",
+      "parentUid" : "cebd6c98f5eaa94c34908b8bd21f35d9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620226922884,
+        "stop" : 1620226922884,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Given I add 'Faded Short Sleeve T-shirts' to cart",
+      "uid" : "a596f998fbac8fe0",
+      "parentUid" : "cebd6c98f5eaa94c34908b8bd21f35d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040644,
+        "stop" : 1620227040697,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then Product 'Faded Short Sleeve T-shirts' should be successfully added to cart",
+      "uid" : "110c8b446a0ad9d",
+      "parentUid" : "cebd6c98f5eaa94c34908b8bd21f35d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040697,
+        "stop" : 1620227040712,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ff4dc42d9c77a382",
+      "parentUid" : "cebd6c98f5eaa94c34908b8bd21f35d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227040712,
+        "stop" : 1620227040713,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "cebd6c98f5eaa94c34908b8bd21f35d9"
+  }, {
+    "name" : "Signup to My Store, Do login and Buy a Product: As a user, I can signup to website",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "8c81227510872699",
+      "parentUid" : "97473afa679aa32db4145984274693bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226931565,
+        "stop" : 1620226957976,
+        "duration" : 26411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I goto the signup page",
+      "uid" : "265cf1f89f0d6d72",
+      "parentUid" : "97473afa679aa32db4145984274693bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226957976,
+        "stop" : 1620226979268,
+        "duration" : 21292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I enter email id to create an account",
+      "uid" : "a75080f1f6f76e45",
+      "parentUid" : "97473afa679aa32db4145984274693bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226979268,
+        "stop" : 1620226981471,
+        "duration" : 2203
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I Enter following account details",
+      "uid" : "9aa130bce1e59fb5",
+      "parentUid" : "97473afa679aa32db4145984274693bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226981471,
+        "stop" : 1620226988714,
+        "duration" : 7243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "When I click register",
+      "uid" : "8d2d26cb028eb1f1",
+      "parentUid" : "97473afa679aa32db4145984274693bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226988714,
+        "stop" : 1620227000566,
+        "duration" : 11852
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I should be logged-in",
+      "uid" : "8e5d8a36430766df",
+      "parentUid" : "97473afa679aa32db4145984274693bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227000566,
+        "stop" : 1620227000598,
+        "duration" : 32
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "576d4dc001096387",
+      "parentUid" : "97473afa679aa32db4145984274693bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227000599,
+        "stop" : 1620227000601,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "97473afa679aa32db4145984274693bb"
+  }, {
+    "name" : "Signup to My Store, Do login and Buy a Product: As a user, I can sign out",
+    "children" : [ {
+      "name" : "When I am sign out from website",
+      "uid" : "c0b458a6db3f45ed",
+      "parentUid" : "89d80192ac08e89d964b9baf5aa49f46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227000618,
+        "stop" : 1620227011145,
+        "duration" : 10527
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then sign in page should be displayed",
+      "uid" : "649ddad06e63c643",
+      "parentUid" : "89d80192ac08e89d964b9baf5aa49f46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227011145,
+        "stop" : 1620227011160,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a53648cb2d506f2a",
+      "parentUid" : "89d80192ac08e89d964b9baf5aa49f46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227011160,
+        "stop" : 1620227011160,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "89d80192ac08e89d964b9baf5aa49f46"
+  }, {
+    "name" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout",
+    "children" : [ {
+      "name" : "Given I proceed to checkout",
+      "uid" : "d283065ef90141f5",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "broken",
+      "time" : {
+        "start" : 1620227040717,
+        "stop" : 1620227044772,
+        "duration" : 4055
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I proceed to standard checkout",
+      "uid" : "106a4e1833690477",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044772,
+        "stop" : 0,
+        "duration" : -1620227044772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I agree to term of services",
+      "uid" : "cb53a3e5b7ffe08",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "Then I Verify Payment details",
+      "uid" : "6e05fc6d4767d077",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "I proceed to standard checkout",
+      "uid" : "836a309a7ac5633d",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 1620227044773,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "I Verify Payment details",
+      "uid" : "4ac8e479a2b8f395",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 1620227044773,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "I agree to term of services",
+      "uid" : "11a3c0f2657d0344",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 1620227044773,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And I proceess address",
+      "uid" : "29b636090b2c7d3b",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "",
+      "uid" : "da8ef69d15c3f2e2",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 1620227044773,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "And I proceess carrier",
+      "uid" : "7cf82b57affb2d4e",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 0,
+        "duration" : -1620227044773
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    }, {
+      "name" : "I proceess carrier",
+      "uid" : "40df302fb35d9e7b",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 1620227044773,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "I proceess address",
+      "uid" : "cfc177f7bdc51b13",
+      "parentUid" : "868eedd0dbb7bb1f6906cdbf9c5f8761",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1620227044773,
+        "stop" : 1620227044773,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "868eedd0dbb7bb1f6906cdbf9c5f8761"
+  } ]
+}
