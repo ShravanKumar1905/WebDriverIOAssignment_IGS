@@ -1,0 +1,67 @@
+{
+  "uid" : "4db4bdb83e30a2eb",
+  "name" : "Given I search for 'Faded Short Sleeve T-shirts' on website",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product.Given I search for 'Faded Short Sleeve T-shirts' on website",
+  "historyId" : "b347f0c2feb74e73d9b479cf928d42d6",
+  "time" : {
+    "start" : 1620227024703,
+    "stop" : 1620227033351,
+    "duration" : 8648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I search for 'Faded Short Sleeve T-shirts' on website"
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa77edc1e4ab0705",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"#search_query_top\" because element wasn't found",
+      "time" : {
+        "start" : 1620226902844,
+        "stop" : 1620226912860,
+        "duration" : 10016
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4db4bdb83e30a2eb.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

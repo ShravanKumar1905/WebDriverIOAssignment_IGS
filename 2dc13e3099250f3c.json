@@ -1,0 +1,48 @@
+{
+  "uid" : "2dc13e3099250f3c",
+  "name" : "Product 'Faded Short Sleeve T-shirts' should be successfully added to cart",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can add Produc to cart.Product 'Faded Short Sleeve T-shirts' should be successfully added to cart",
+  "historyId" : "36d4cf29bc9dfe905382d3f1037fef5d",
+  "time" : {
+    "start" : 1620226922884,
+    "stop" : 1620226922884,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can add Produc to cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can add Produc to cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Product 'Faded Short Sleeve T-shirts' should be successfully added to cart"
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can add Produc to cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2dc13e3099250f3c.json",
+  "parameterValues" : [ ]
+}

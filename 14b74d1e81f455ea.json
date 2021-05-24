@@ -1,0 +1,56 @@
+{
+  "uid" : "14b74d1e81f455ea",
+  "name" : "",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product.",
+  "historyId" : "d639a7fbd4a8c9afa3ba51ba267c9b3f",
+  "time" : {
+    "start" : 1620227024703,
+    "stop" : 1620227024703,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14b74d1e81f455ea.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

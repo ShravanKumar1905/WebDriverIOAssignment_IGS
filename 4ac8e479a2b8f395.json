@@ -1,0 +1,48 @@
+{
+  "uid" : "4ac8e479a2b8f395",
+  "name" : "I Verify Payment details",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout.I Verify Payment details",
+  "historyId" : "24bbec6b91fd64df41cd758095d214c9",
+  "time" : {
+    "start" : 1620227044773,
+    "stop" : 1620227044773,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "testMethod",
+    "value" : "I Verify Payment details"
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ac8e479a2b8f395.json",
+  "parameterValues" : [ ]
+}

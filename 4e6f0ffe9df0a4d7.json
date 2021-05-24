@@ -1,0 +1,82 @@
+{
+  "uid" : "4e6f0ffe9df0a4d7",
+  "name" : "",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product.",
+  "historyId" : "d639a7fbd4a8c9afa3ba51ba267c9b3f",
+  "time" : {
+    "start" : 1620227040640,
+    "stop" : 1620227040640,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can Search Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "14b74d1e81f455ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620227024703,
+        "stop" : 1620227024703,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c9ef885f1c3ac5d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226912861,
+        "stop" : 1620226912861,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f4fdeab48a04344e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226902843,
+        "stop" : 1620226902844,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e6f0ffe9df0a4d7.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

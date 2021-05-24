@@ -1,0 +1,66 @@
+{
+  "uid" : "8d2d26cb028eb1f1",
+  "name" : "When I click register",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can signup to website.When I click register",
+  "historyId" : "e18b2a01550dc0c8e97bc0f01c46e54",
+  "time" : {
+    "start" : 1620226988714,
+    "stop" : 1620227000566,
+    "duration" : 11852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can signup to website"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can signup to website"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click register"
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can signup to website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "87df447e2ffceaa1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620226877758,
+        "stop" : 1620226892335,
+        "duration" : 14577
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d2d26cb028eb1f1.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

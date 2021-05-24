@@ -1,0 +1,58 @@
+{
+  "uid" : "6e05fc6d4767d077",
+  "name" : "Then I Verify Payment details",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout.Then I Verify Payment details",
+  "historyId" : "b740b5fb3f5d71ebe78994578b695e44",
+  "time" : {
+    "start" : 1620227044773,
+    "stop" : 0,
+    "duration" : -1620227044773
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I Verify Payment details"
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e05fc6d4767d077.json",
+  "parameterValues" : [ "chrome-90.0.4430.93" ]
+}

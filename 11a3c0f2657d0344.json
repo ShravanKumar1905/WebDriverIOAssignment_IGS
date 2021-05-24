@@ -1,0 +1,48 @@
+{
+  "uid" : "11a3c0f2657d0344",
+  "name" : "I agree to term of services",
+  "fullName" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout.I agree to term of services",
+  "historyId" : "9bbb7c021997ffefd517c91d186585fa",
+  "time" : {
+    "start" : 1620227044773,
+    "stop" : 1620227044773,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "testClass",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "testMethod",
+    "value" : "I agree to term of services"
+  }, {
+    "name" : "package",
+    "value" : "Signup to My Store, Do login and Buy a Product: As a user, I can proceed to checkout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11a3c0f2657d0344.json",
+  "parameterValues" : [ ]
+}
